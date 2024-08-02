@@ -1,0 +1,12 @@
+[browser]
+showSidebarNavigation = false
+
+[server]
+maxUploadSize = 1
+
+[client]
+showErrorDetails = false
+
+[theme]
+primaryColor = "#0a0901"
+backgroundColor = "#f5f2d5"
