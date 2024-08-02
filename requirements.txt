@@ -1,2 +1,2 @@
-streamlit==latest
+streamlit
 pillow
